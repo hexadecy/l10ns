@@ -7,17 +7,17 @@ test/translations/delete.log
 .vscode/
 .DS_Store
 docs/
-interface/public/images/default-*
-interface/public/images/default2x-*
-interface/public/images-webp/
-interface/public/styles/
-interface/public/scripts/
-interface/public/templates/**/*
-interface/vendor/**/*
+#interface/public/images/default-*
+#interface/public/images/default2x-*
+#interface/public/images-webp/
+#interface/public/styles/
+#interface/public/scripts/
+#interface/public/templates/**/*
+#interface/vendor/**/*
 #plugins/javascript/templates/build/
 #plugins/javascript/specifications/templates/build/
-example/javascript/output
-example/javascript/localizations/en-US.json
+#example/javascript/output
+#example/javascript/localizations/en-US.json
 
 app/page/document/build/
 app/page/layout/build/
